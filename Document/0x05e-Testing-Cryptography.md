@@ -27,6 +27,10 @@ String providers = builder.toString();
 //now display the string on the screen or in the logs for debugging.
 ```
 
+<!--sec data-title="Example 2" data-id="section2" data-collapse=true ces-->
+This is a section that is by default closed but visible (with ```data-collapse=true```)
+<!--endsec-->
+
 Below you can find the output of a running Android 4.4 in an emulator with Google Play APIs, after the security provider has been patched:
 
 ```

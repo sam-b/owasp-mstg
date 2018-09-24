@@ -1,6 +1,6 @@
 { 
   "root" : "./Document",
-  "plugins" : [ "anchors" ],
+  "plugins" : [ "anchors", "gitbook-plugin-sectionx" ],
 
   "structure": { 
     "readme": "Foreword.md"
